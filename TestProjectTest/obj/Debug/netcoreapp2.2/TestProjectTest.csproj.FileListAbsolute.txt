@@ -1,0 +1,17 @@
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\TestProjectTest.deps.json
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\TestProjectTest.runtimeconfig.json
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\TestProjectTest.runtimeconfig.dev.json
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\TestProjectTest.dll
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\TestProjectTest.pdb
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\TestProject.dll
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\TestProject.pdb
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.csprojAssemblyReference.cache
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.csproj.CoreCompileInputs.cache
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.AssemblyInfoInputs.cache
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.AssemblyInfo.cs
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.csproj.CopyComplete
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.dll
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.pdb
