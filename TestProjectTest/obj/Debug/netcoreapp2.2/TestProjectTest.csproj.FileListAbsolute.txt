@@ -15,3 +15,4 @@ C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\Test
 C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.csproj.CopyComplete
 C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.dll
 C:\JenkinsTutorial\Test\TestProject\TestProjectTest\obj\Debug\netcoreapp2.2\TestProjectTest.pdb
+C:\JenkinsTutorial\Test\TestProject\TestProjectTest\bin\Debug\netcoreapp2.2\Mono.Cecil.dll

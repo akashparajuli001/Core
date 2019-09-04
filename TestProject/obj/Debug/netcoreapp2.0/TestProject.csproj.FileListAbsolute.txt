@@ -3,7 +3,6 @@ C:\JenkinsTutorial\Test\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProj
 C:\JenkinsTutorial\Test\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.dev.json
 C:\JenkinsTutorial\Test\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.dll
 C:\JenkinsTutorial\Test\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.pdb
-C:\JenkinsTutorial\Test\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.csprojAssemblyReference.cache
 C:\JenkinsTutorial\Test\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.csproj.CoreCompileInputs.cache
 C:\JenkinsTutorial\Test\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfoInputs.cache
 C:\JenkinsTutorial\Test\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfo.cs
